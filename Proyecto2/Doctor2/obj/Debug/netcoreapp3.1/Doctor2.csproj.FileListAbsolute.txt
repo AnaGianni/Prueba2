@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.exe
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.deps.json
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.runtimeconfig.dev.json
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.dll
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\bin\Debug\netcoreapp3.1\Doctor2.pdb
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\obj\Debug\netcoreapp3.1\Doctor2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\obj\Debug\netcoreapp3.1\Doctor2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\obj\Debug\netcoreapp3.1\Doctor2.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\obj\Debug\netcoreapp3.1\Doctor2.dll
+C:\Users\User\Desktop\PROYECTOS ANA PROGRAMACION\Doctor2\Doctor2\obj\Debug\netcoreapp3.1\Doctor2.pdb
