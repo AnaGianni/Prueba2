@@ -11,6 +11,8 @@ namespace Doctor2
 
 
             Console.WriteLine("Holis");
+
+            Console.WriteLine("Chau");
             
             
             
