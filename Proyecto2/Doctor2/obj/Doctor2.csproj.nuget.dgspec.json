@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\PROYECTOS ANA PROGRAMACION\\Doctor2\\Proyecto2\\Doctor2\\Doctor2.csproj": {}
+    "C:\\Users\\User\\Desktop\\ANA GIT\\Prueba2\\Proyecto2\\Doctor2\\Doctor2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\PROYECTOS ANA PROGRAMACION\\Doctor2\\Proyecto2\\Doctor2\\Doctor2.csproj": {
+    "C:\\Users\\User\\Desktop\\ANA GIT\\Prueba2\\Proyecto2\\Doctor2\\Doctor2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\PROYECTOS ANA PROGRAMACION\\Doctor2\\Proyecto2\\Doctor2\\Doctor2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ANA GIT\\Prueba2\\Proyecto2\\Doctor2\\Doctor2.csproj",
         "projectName": "Doctor2",
-        "projectPath": "C:\\Users\\User\\Desktop\\PROYECTOS ANA PROGRAMACION\\Doctor2\\Proyecto2\\Doctor2\\Doctor2.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ANA GIT\\Prueba2\\Proyecto2\\Doctor2\\Doctor2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\PROYECTOS ANA PROGRAMACION\\Doctor2\\Proyecto2\\Doctor2\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ANA GIT\\Prueba2\\Proyecto2\\Doctor2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

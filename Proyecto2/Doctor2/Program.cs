@@ -8,9 +8,9 @@ namespace Doctor2
         {
             Doctor doctor1 = new Doctor(50, "traumatologia");
             doctor1.MostrarDoctor();
-            
-            
-            
+
+
+            Console.WriteLine("Holis");
             
             
             
